@@ -1,0 +1,272 @@
+[
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "c10276c48e7d0552370b8954d912d5be88b49dd7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "0b3377b47f1f123cebb2bb17d44827d3b828a1bf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/layouts/Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9639,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "453dc518557a7ea79573edb92def6c70429c6411",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/layouts/Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9615,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "89e4f1a99fe6c8438f92f4411d5fd300f2570ea2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/layouts/Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9324,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "ae3d7774f1a6c449cd5061f84489baf63f005142",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/layouts/Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9615,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "b6bfc3c023a48cc86200e466696c50951518aae1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/objects/Contact",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/objects/Contact/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/objects/Contact/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "6dce55a2ecf65cdce01ec38200aac03751949c77",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/objects/Contact/fields/PreviousLastName__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/objects/Contact/fields/PreviousLastName__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 386,
+            "modifiedTime": 1533627237000,
+            "changeTime": 1533627237000,
+            "contentHash": "63a46162ae71da4cb45a0e1ed984d35935320fc8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17886,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "47400b78b38faac44a08904f7618d3be2b72a702",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4485,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "34d4ee8c30e257291123628929c5607d04994fe0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4481,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "189cc1f63996a9641d6c4bbc9402730b2df8cc3d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4821,
+            "modifiedTime": 1533557990000,
+            "changeTime": 1533557990000,
+            "contentHash": "a956ae174a685787c90888be2e3c9eb8a1b09598",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example",
+        {
+            "state": "n",
+            "sourcePath": "/Users/thomashensel/Documents/sfdx/sfdx01/sfdx-example",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 374,
+            "modifiedTime": 1533628140000,
+            "changeTime": 1533628140000,
+            "contentHash": "356849f07335752cab0780748ede7193bcfc9fe3",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

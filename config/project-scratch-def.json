@@ -1,8 +1,8 @@
 {
-    "orgName": "user story 01 - config",
-    "description": "This is a scratch org for the configuration part of US01",
+    "orgName": "user story 01 - code",
+    "description": "This is a scratch org for the code part of US01",
     "edition": "Developer",
-    "username": "test-developer1@thensel.scratch.devi",
+    "username": "test-developer2@thensel.scratch.devi",
     "adminEmail": "thomas@thomas-hensel.com",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
